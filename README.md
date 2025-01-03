@@ -30,11 +30,15 @@ code --list-extensions --show-versions > extensions_list.txt
 | CodeSnap | [https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot](https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot) | **Capture code snippets as images with syntax highlighting.** |
 | Live Server | [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | **Launch a local development server with live reloading for web development.** |
 | Better Comments | [https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | **Improve code readability with categorized and color-coded comments.** |
-| ESLint | [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | **Identify and fix JavaScript code errors and enforce coding style.** |
 | Path Intellisense | [https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | **Autocomplete file paths for faster coding.** |
 | Rest Client | [https://marketplace.visualstudio.com/items?itemName=humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | **Test APIs directly within VS Code.** |
 | VS Code Icons | [https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | **Enhance visual clarity with file-specific icons.** |
 | Continue AI Code Assistant | [https://marketplace.visualstudio.com/items?itemName=continue.continue](https://marketplace.visualstudio.com/items?itemName=continue.continue) | **AI-powered code completion and assistance.** |
+| ESLint | [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | **Identify and fix JavaScript code errors and enforce coding style.** |
+
 
 I have not included the basic extensions like python, pylance, jupyter notebook etc (in the list above) which are essential for python projects but they are listed in the `extensions_list.txt` file.
 
+To setup your personal AI code assistant using Continue in 10 minutes, follow the detailed tutorial [here](https://github.com/kraken24/smartypy)
+
+Let me know if you also use some other extensions which I missed and might be good to have here.

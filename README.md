@@ -39,6 +39,6 @@ code --list-extensions --show-versions > extensions_list.txt
 
 I have not included the basic extensions like python, pylance, jupyter notebook etc (in the list above) which are essential for python projects but they are listed in the `extensions_list.txt` file.
 
-To setup your personal AI code assistant using Continue in 10 minutes, follow the detailed tutorial [here](https://github.com/kraken24/smartypy)
+To setup your personal AI code assistant using Continue in 10 minutes, follow the detailed tutorial [here](https://github.com/kraken24/smartypy).
 
 Let me know if you also use some other extensions which I missed and might be good to have here.

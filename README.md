@@ -24,7 +24,7 @@ code --list-extensions --show-versions > extensions_list.txt
 | Extension Name | Marketplace Link | Purpose |
 | -------------- | ------------------ | ------- |
 | Auto Doc Strings | [https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) | **Generate docstrings automatically.** |
-| Pep8 | [https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) | **Format Python code to conform to PEP 8 standards.** |
+| Autopep8 | [https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) | **Format Python code to conform to PEP 8 standards.** |
 | Preview Markdown | [https://marketplace.visualstudio.com/items?itemName=searking.preview-vscode](https://marketplace.visualstudio.com/items?itemName=searking.preview-vscode) | **Preview Markdown files within VS Code.** |
 | Prettier - Code Formatter | [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | **Automatically format code for improved readability and consistency.** |
 | CodeSnap | [https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot](https://marketplace.visualstudio.com/items?itemName=robertz.code-snapshot) | **Capture code snippets as images with syntax highlighting.** |

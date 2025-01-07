@@ -36,7 +36,7 @@ code --list-extensions --show-versions > extensions_list.txt
 | Continue AI Code Assistant | AI-powered code completion and assistance. | [https://marketplace.visualstudio.com/items?itemName=continue.continue](https://marketplace.visualstudio.com/items?itemName=continue.continue) |
 | ESLint | Identify and fix JavaScript code errors and enforce coding style. | [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
 
-I have not included the basic extensions like python, pylance, jupyter notebook etc (in the list above) which are essential for python projects but they are listed in the `extensions_list.txt` file.
+I have not included the basic extensions like python, pylance, jupyter notebook etc (in the list above) which are essential for python projects and need to be installed for the projects anyway.
 
 To setup your personal AI code assistant using Continue in 10 minutes, follow the detailed tutorial [here](https://github.com/kraken24/smartypy).
 

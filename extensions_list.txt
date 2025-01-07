@@ -1,0 +1,13 @@
+njpwerner.autodocstring
+ms-python.autopep8
+searking.preview-vscode
+esbenp.prettier-vscode
+robertz.code-snapshot
+ritwickdey.liveserver
+aaron-bond.better-comments
+christian-kohler.path-intellisense
+humao.rest-client
+vscode-icons-team.vscode-icons
+continue.continue
+dbaeumer.vscode-eslint
+inferrinizzard.prettier-sql-vscode
